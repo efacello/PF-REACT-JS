@@ -1,0 +1,16 @@
+header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: 1px solid;
+}
+
+li {
+	display: inline-block;
+	margin: 2.5rem;
+	cursor: pointer;
+}
+
+.imglogo {
+    width: 20rem;
+}
